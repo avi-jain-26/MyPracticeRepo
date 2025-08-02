@@ -1,0 +1,18 @@
+.head{
+    color: red;
+    font-weight: 700;
+}
+
+.form input{
+    height: 30px;
+    width: 150px;
+}
+
+.form button{
+    border-radius: 5px;
+}
+
+#currdis{
+    font-size: 20px;
+    color: red;
+}
